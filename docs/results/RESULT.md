@@ -1,6 +1,5 @@
 ### Шорткаты
 - [Проделанная работа](#проделанная-работа)
-- [Showcase (скриншоты)](#showcase)
 - [Послесловие](#послесловие)
 
 # Проделанная работа
@@ -9,9 +8,7 @@
 
 <img src="../images/start_state.png" height="512">
 
-<video height="512" controls>
-  <source src="../screencasts/meme_demo_screencast.mp4" type="video/mp4">
-</video>
+https://github.com/Tamerlanchiques/study-jam-5/assets/11006352/73ccd248-c3ba-4219-b9c2-bc298d4c864f
 
 ### **Базовый уровень:**
 
